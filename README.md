@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsoduartesarabia&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoduartesarabia&hide=kotlin)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoduartesarabia&hide=kotlin)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoduartesarabia&layout=compact&theme=radical" />
 
 <p align="center"> 
   Visitors count<br>
@@ -8,8 +8,7 @@
 </p>
 
 
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
 <!--
 **alfonsoduartesarabia/alfonsoduartesarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
